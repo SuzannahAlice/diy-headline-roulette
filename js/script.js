@@ -3,11 +3,11 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = '2os8m84u4f4sk6sv';
     // Either provide full API query here or include options below
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
-    // var keywords = 'weather wragge';
+    // var keywords = 'holiday beach';
     var keywords = '';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
